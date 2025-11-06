@@ -3,7 +3,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>INNOVARE Offenbach — Science Center (Mockup)</title>
-  <meta name="description" content="Fiktives Leuchtturmprojekt — Science Center im Landkreis Offenbach (Mockup)" />
+  <meta name="description" content="Science Center im Landkreis Offenbach (Mockup)" />
   <style>
     :root{
       --bg:#070812;
@@ -87,7 +87,7 @@
       <div class="container">
         <h1>INNOVARE Offenbach — <br> 
 	    Das Science Center der IKZ Offenbach</h1>
-        <p class="lead">Fiktives Leuchtturmprojekt: Interaktive Themenwelten zu Energie, Digitalisierung und Nachhaltigkeit. Entwickelt zur Förderung von Bildung, Wissenschaft und Innovation im Landkreis Offenbach.</p>
+        <p class="lead">Interaktive Themenwelten zu Energie, Digitalisierung und Nachhaltigkeit. Entwickelt zur Förderung von Bildung, Wissenschaft und Innovation im Landkreis Offenbach.</p>
         <div class="spheres">
           <a href="#energia" class="sphere">
             <h3>ENERGIA</h3>
