@@ -113,7 +113,7 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
     <div class="spheres">
       <a href="#energia" class="sphere">
         <h3>ENERGIA</h3>
-        <p>Energie & Umwelt — Solar-, Wind- und Wasserstoffexperimente.</p>
+        <p>Energie & Umwelt — <br> Solar-, Wind- und Wasserstoffexperimente.</p>
       </a>
       <a href="#digita" class="sphere">
         <h3>DIGITA</h3>
