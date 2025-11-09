@@ -86,7 +86,7 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
 <header>
   <div class="container nav">
     <div class="brand">
-      <div class="logo">IN</div>
+      <div class="logo">IO</div>
       <div>
         <div style="font-weight:800">INNOVARE Offenbach</div>
         <div style="font-size:0.85rem;color:var(--muted)">Science Center — Mockup</div>
@@ -124,6 +124,28 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
         <p>Natur & Nachhaltigkeit — Biodiversität und grüne Zukunftsideen.</p>
       </a>
     </div>
+  </div>
+</section>
+  
+<section class="section" id="news" style="background:rgba(255,255,255,0.02);">
+  <div class="container">
+    <h1>Aktuelles & Presse</h1>
+    <p class="lead">Neuigkeiten rund um das Science Center INNOVARE Offenbach.</p>
+    <div class="spheres">
+      <div class="sphere">
+        <h3>Spatenstich: Planung des Science Centers </h3>
+        <p>Die Planung des Science Centers beginnt im Ende 2025 und soll Anfang 2027 abgeschlossen sein.</p>
+      </div>
+      <div class="sphere">
+        <h3>Kooperation mit der HöMS Mühlheim am Main</h3>
+        <p>Gemeinsame Forschungsprojekte zu KI-gestütztem Energiemanagement und digitaler Bildung starten ab März 2026.</p>
+      </div>
+      <div class="sphere">
+        <h3>Pressemitteilung vom 03. November 2025</h3>
+        <p> „INNOVARE Offenbach wird ein Leuchtturmprojekt für Bildung, Forschung und Nachhaltigkeit.“</p>
+      </div>
+    </div>
+    <p><a href="#start" style="color:var(--accent1)">← Zurück</a></p>
   </div>
 </section>
 
@@ -176,7 +198,7 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
 </section>
 
 <footer>
-  © INNOVARE Offenbach — Präsentations-Mockup • Impressum • Datenschutz
+  INNOVARE Offenbach — Präsentations-Mockup • Impressum • Datenschutz • Jobs • News 
 </footer>
 </main>
 </body>
