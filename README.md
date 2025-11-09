@@ -134,14 +134,14 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
     <div class="spheres">
       <div class="sphere">
         <h3>Spatenstich: Planung des Science Centers </h3>
-        <p>Die Planung des Science Centers beginnt im Ende 2025 und soll Anfang 2027 abgeschlossen sein.</p>
+        <p>Die Planung des Science Centers beginnt Ende 2025 und soll Anfang 2027 abgeschlossen sein.</p>
       </div>
       <div class="sphere">
         <h3>Kooperation mit der HöMS Mühlheim am Main</h3>
         <p>Gemeinsame Forschungsprojekte zu KI-gestütztem Energiemanagement und digitaler Bildung starten ab März 2026.</p>
       </div>
       <div class="sphere">
-        <h3>Pressemitteilung vom 03. November 2025</h3>
+        <h3>Pressemitteilung vom<br>03. November 2025</h3>
         <p> „INNOVARE Offenbach wird ein Leuchtturmprojekt für Bildung, Forschung und Nachhaltigkeit.“</p>
       </div>
     </div>
@@ -198,7 +198,7 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
 </section>
 
 <footer>
-  INNOVARE Offenbach — Präsentations-Mockup • Impressum • Datenschutz • Jobs • News 
+  INNOVARE Offenbach • Impressum • Datenschutz • Jobs • News 
 </footer>
 </main>
 </body>
