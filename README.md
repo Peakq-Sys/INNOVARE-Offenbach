@@ -71,12 +71,18 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
   nav ul{flex-direction:column;gap:12px;margin-top:8px}
   .container{padding:16px}
 }
+.credit {
+  color: #9aa4b2; /* Grau */
+  font-family: Calibri, Arial, sans-serif; 
+  font-size: 0.625rem; 
+  text-align: right; 
+  margin-top: 6px; 
+}
 </style>
 </head>
 <body>
 <div class="orb one" aria-hidden></div>
 <div class="orb two" aria-hidden></div>
-
 <header>
   <div class="container nav">
     <div class="brand">
@@ -99,7 +105,6 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
     </div>
   </div>
 </header>
-
 <main>
 <section class="section" id="start">
   <div class="container">
@@ -126,7 +131,8 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
   <div class="container">
     <h1>ENERGIA — Energie erleben und verstehen</h1>
     <p class="lead">Wie funktioniert eine Solarzelle? Warum dreht sich ein Windrad?</p>
-    <img src="https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1100&q=80" alt="Solarpanel und Sonne">
+    <img src="https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c29sYXIlMjBwYW5lbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600auto=format&fit=crop&w=1100&q=80" alt="Solarpanel und Sonne">
+    <p class="credit">© Nuno Marques on Unsplash</p>
     <h2>Highlights</h2>
     <ul>
       <li>Experimentierstationen für Solar- und Windenergie</li>
@@ -141,7 +147,8 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
   <div class="container">
     <h1>DIGITA — Die Welt der Digitalisierung</h1>
     <p class="lead">Ob Robotik, künstliche Intelligenz oder 3D-Druck – spielerisch Technologie entdecken.</p>
-    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1100&q=80" alt="Roboterarm im Labor">
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1100&q=80" alt="Platine">
+    <p class="credit">© Alexandre Debiève on Unsplash</p>
     <h2>Highlights</h2>
     <ul>
       <li>KI-Lab mit Bilderkennung und Sprachsteuerung</li>
@@ -156,7 +163,8 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
   <div class="container">
     <h1>NATURA — Natur begreifen, Zukunft gestalten</h1>
     <p class="lead">Erlebnisstationen zu Recycling, Ökosystemen und nachhaltiger Stadtplanung.</p>
-    <img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1100&q=80" alt="Natur und Nachhaltigkeit">
+    <img src="https://images.unsplash.com/photo-1630586450644-684e310044dc?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170" alt="Natur und Nachhaltigkeit">
+     <p class="credit">© Jaimy de Hon on Unsplash</p>
     <h2>Highlights</h2>
     <ul>
       <li>Recycling-Werkstatt zum Mitmachen</li>
