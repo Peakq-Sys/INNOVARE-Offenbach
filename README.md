@@ -131,7 +131,7 @@ footer{margin-top:80px;padding:18px 0;color:var(--muted);font-size:0.9rem;text-a
   <div class="container">
     <h1>ENERGIA — Energie erleben und verstehen</h1>
     <p class="lead">Wie funktioniert eine Solarzelle? Warum dreht sich ein Windrad?</p>
-    <img src="https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c29sYXIlMjBwYW5lbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600auto=format&fit=crop&w=1100&q=80" alt="Solarpanel und Sonne">
+    <img src="https://images.unsplash.com/photo-1613665813446-82a78c468a1d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1158" alt="Solarpanel und Sonne">
     <p class="credit">© Nuno Marques on Unsplash</p>
     <h2>Highlights</h2>
     <ul>
